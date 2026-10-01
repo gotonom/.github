@@ -4,7 +4,9 @@
 
 **GOTONOM**, fiziksel perakende ve işletmeler için yazılım geliştiren İstanbul merkezli bir yapay zekâ teknoloji şirketidir: mağaza içi ürün analitiği, dijital tabela, yapay zekâ görünürlük ölçümü, İK asistanı ve yapay zekâ ile görsel/video üretimi.
 
-## Products · Ürünler
+**GOTONOM** es una empresa tecnológica de inteligencia artificial con sede en Estambul que desarrolla software para el comercio físico y las empresas: analítica de producto en tienda, señalización digital, medición de visibilidad en IA, un asistente de RR. HH. y una app de imagen y vídeo con IA.
+
+## Products · Ürünler · Productos
 
 | Product | What it does | Website |
 |---|---|---|
@@ -13,6 +15,10 @@
 | **GeoMono** | AI visibility (GEO) platform: measures whether a brand is named, and which sources are cited, in ChatGPT, Gemini, Perplexity, Claude and Google AI Overviews answers to Turkish questions. *(gopersona.app now redirects here.)* | [geomono.com](https://geomono.com) |
 | **GoPeople** | HR assistant that answers employees' everyday questions. | [gopeople.io](https://gopeople.io) |
 | **Goddo** | AI image and video creation app for iOS. | [goddo.ai](https://goddo.ai) |
+
+## Open source · Açık kaynak
+
+- **[gotrack-integrations](https://github.com/gotonom/gotrack-integrations)**: receive and verify GoTrack's signed webhooks (HMAC-SHA256), with examples in Python, Node.js and PHP and a JSON Schema for every event. In [English](https://github.com/gotonom/gotrack-integrations#readme), [Türkçe](https://github.com/gotonom/gotrack-integrations/blob/main/README.tr.md) and [Español](https://github.com/gotonom/gotrack-integrations/blob/main/README.es.md).
 
 ## Research and measurements · Araştırma ve ölçümler
 
