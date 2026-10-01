@@ -10,7 +10,7 @@
 
 | Product | What it does | Website |
 |---|---|---|
-| **GoTrack** | In-store product analytics and smart screens. Using a store's cameras, it measures which products and colours shoppers pick up, how long they hold them and which they put back, per product, zone, hour and store; the screen beside the shelf can show the product in hand. Images are processed in the store and not stored by default; no face recognition. | [gotrackgo.com](https://gotrackgo.com) |
+| **GoTrack** | In-store product analytics and smart screens. Using its own cameras placed close to the products, it measures which products and colours shoppers pick up, how long they hold them and which they put back, per product, zone, hour and store; the screen beside the shelf can show the product in hand. Images are processed in the store and not stored by default; no face recognition. | [gotrackgo.com](https://gotrackgo.com) |
 | **GoVista** | Cloud digital signage CMS for Samsung Tizen, LG webOS, Android, Windows and web screens, with LED controller support. | [govista.app](https://govista.app) |
 | **GeoMono** | AI visibility (GEO) platform: measures whether a brand is named, and which sources are cited, in ChatGPT, Gemini, Perplexity, Claude and Google AI Overviews answers to Turkish questions. *(gopersona.app now redirects here.)* | [geomono.com](https://geomono.com) |
 | **GoPeople** | HR assistant that answers employees' everyday questions. | [gopeople.io](https://gopeople.io) |
