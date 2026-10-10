@@ -1,20 +1,23 @@
 # GOTONOM
 
-**GOTONOM Yazılım Teknolojileri A.Ş.** is an İstanbul-based AI technology company that builds software for physical retail and everyday business: in-store product analytics, digital signage, AI visibility measurement, an HR assistant and an AI image and video app.
+**GOTONOM Yazılım Teknolojileri A.Ş.** is an İstanbul-based AI technology company, founded in 2026 by Atakan Özalan, Okan Özalan and Öncü Berber. It builds software for physical retail and everyday business: GoTrack for in-store product analytics, GoVista for digital signage and GoPeople for WhatsApp-based HR requests.
 
-**GOTONOM**, fiziksel perakende ve işletmeler için yazılım geliştiren İstanbul merkezli bir yapay zekâ teknoloji şirketidir: mağaza içi ürün analitiği, dijital tabela, yapay zekâ görünürlük ölçümü, İK asistanı ve yapay zekâ ile görsel/video üretimi.
+**GOTONOM Yazılım Teknolojileri A.Ş.**, 2026'da Atakan Özalan, Okan Özalan ve Öncü Berber tarafından kurulan İstanbul merkezli bir yapay zekâ teknoloji şirketidir. Fiziksel perakende ve işletmeler için yazılım geliştirir: mağaza içi ürün analitiği için GoTrack, dijital tabela için GoVista ve WhatsApp üzerinden İK talepleri için GoPeople.
 
-**GOTONOM** es una empresa tecnológica de inteligencia artificial con sede en Estambul que desarrolla software para el comercio físico y las empresas: analítica de producto en tienda, señalización digital, medición de visibilidad en IA, un asistente de RR. HH. y una app de imagen y vídeo con IA.
+**GOTONOM Yazılım Teknolojileri A.Ş.** es una empresa tecnológica de inteligencia artificial con sede en Estambul, fundada en 2026 por Atakan Özalan, Okan Özalan y Öncü Berber. Desarrolla software para el comercio físico y las empresas: GoTrack para la analítica de producto en tienda, GoVista para la señalización digital y GoPeople para las solicitudes de RR. HH. por WhatsApp.
 
 ## Products · Ürünler · Productos
 
 | Product | What it does | Website |
 |---|---|---|
-| **GoTrack** | In-store product analytics and smart screens. Using its own cameras placed close to the products, it measures which products and colours shoppers pick up, how long they hold them and which they put back, per product, zone, hour and store; the screen beside the shelf can show the product in hand. Live in apparel and footwear stores; the same measures apply to fragrance, cosmetics, watches, bags, electronics and grocery, starting with a pilot ([by category](https://gotrackgo.com/en/industries)). Images are processed in the store and not stored by default; no face recognition. | [gotrackgo.com](https://gotrackgo.com) |
+| **GoTrack** | In-store product analytics. Using its own cameras placed close to the products, it measures which products and colours shoppers pick up, how long they hold them and which they put back, per product, zone, hour and store. Screens are optional: when one is installed beside the shelf, it can show the product in hand. Live in apparel and footwear stores; the same measures apply to fragrance, cosmetics, watches, bags, electronics and grocery, starting with a pilot ([by category](https://gotrackgo.com/en/industries)). Images are processed in the store and not stored by default; no face recognition. | [gotrackgo.com](https://gotrackgo.com) |
 | **GoVista** | Cloud digital signage CMS for Samsung Tizen, LG webOS, Android, Windows and web screens, with LED controller support. | [govista.app](https://govista.app) |
-| **GeoMono** | AI visibility (GEO) platform: measures whether a brand is named, and which sources are cited, in ChatGPT, Gemini, Perplexity, Claude and Google AI Overviews answers to Turkish questions. *(gopersona.app now redirects here.)* | [geomono.com](https://geomono.com) |
-| **GoPeople** | HR assistant that answers employees' everyday questions. | [gopeople.io](https://gopeople.io) |
-| **Goddo** | AI image and video creation app for iOS. | [goddo.ai](https://goddo.ai) |
+| **GoPeople** | WhatsApp-integrated HR platform: employees send leave, document and equipment requests over WhatsApp, and authorised managers and HR teams handle them in one panel. | [gopeople.io](https://gopeople.io) |
+
+## Related companies · İlgili şirketler
+
+- **GOGOGO LLC** (Newark, Delaware, US) is GOTONOM's independent sister company, co-founded by Atakan Özalan and Okan Özalan. GOGOGO LLC and GOTONOM Yazılım Teknolojileri A.Ş. are independent sister companies; neither is the parent or subsidiary of the other. GOGOGO LLC makes **Goddo**, an AI image and video app for iOS ([goddo.ai](https://goddo.ai)).
+- **GeoMono** ([geomono.com](https://geomono.com)) is a separate, independent company. It is not a GOTONOM product.
 
 ## Open source · Açık kaynak
 
@@ -25,13 +28,12 @@
 We publish what we measure, with the method and its limits.
 
 - **Türkiye's 30 largest consumer brands and AI search** (1 Aug 2026): none of the 19 readable robots.txt files blocks an AI crawler, but 7 of 30 sites return HTTP 403 to a client without a browser user-agent. [Read](https://gotonom.com/arastirma/turkiye-30-marka-yapay-zeka-hazirligi)
-- **We measured our own brands** with our AI visibility tool and published the grade: entity-resolution accuracy 42.5%, so fewer than half the AI answers about our products were actually about us. [Read](https://gotonom.com/arastirma/kendi-urunlerimizi-olctuk)
-- **GoTrack screen reaction time** (30 Sep 2026): from recognising the product in hand to the screen, median 0.35 s with one product, 0.51 s with two. [Lab note](https://gotrackgo.com/en/screen-reaction-time-measured) · [Türkçe](https://gotrackgo.com/tr/ekran-tepki-suresi-olcumu)
+- **How AI engines describe our own brands** (1 Aug 2026): entity-resolution accuracy 42.5%, so fewer than half the AI answers about our products were actually about us. [Read](https://gotonom.com/arastirma/kendi-urunlerimizi-olctuk)
+- **GoTrack screen reaction time** (30 Sep 2026): from the product decision to the screen's render acknowledgement, median 0.35 s with one product and 0.51 s with two. The time from pickup to recognition is not included. [Lab note](https://gotrackgo.com/en/screen-reaction-time-measured) · [Türkçe](https://gotrackgo.com/tr/ekran-tepki-suresi-olcumu)
 - **GoTrack reliability** (30 Sep 2026): 25 of 25 fires reached the screen, 24 reported their render, and 30 sightings of clothes being worn stayed off the screen. [Lab note](https://gotrackgo.com/en/reliability-note) · [Türkçe](https://gotrackgo.com/tr/guvenilirlik-notu)
 - **GoTrack without internet** (4 Sep 2026): with the store device unplugged for 7 min 43 s, 3 of 3 showings reached the screen and 3 of 3 records reached the cloud afterwards, with their real times. [Lab note](https://gotrackgo.com/en/offline-test)
 
 Guides on in-store product analytics (put-back rate, hold time, lift and learn, A/B testing in a store, privacy checklist): [gotrackgo.com/en/guides](https://gotrackgo.com/en/guides) · [Türkçe](https://gotrackgo.com/tr/rehberler).
-GEO guides and checklist: [geomono.com/tr/geo-nedir](https://geomono.com/tr/geo-nedir) · [GEO kontrol listesi](https://geomono.com/tr/kontrol-listesi).
 
 ## Not to be confused with · Karıştırılmasın
 
@@ -41,6 +43,7 @@ GEO guides and checklist: [geomono.com/tr/geo-nedir](https://geomono.com/tr/geo-
 ## Company facts · Şirket bilgileri
 
 - Legal name: GOTONOM Yazılım Teknolojileri Anonim Şirketi
+- Founded: 2026 · Founders: Atakan Özalan, Okan Özalan, Öncü Berber
 - Location: İstanbul, Türkiye
 - Turkish Trade Registry no. 1145408 · İstanbul Chamber of Commerce member no. 1646761 · NACE 62.10 (computer programming)
 - Languages we work in: Turkish, English, Spanish
