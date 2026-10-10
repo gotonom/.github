@@ -2,7 +2,7 @@
 
 **GOTONOM Yazılım Teknolojileri A.Ş.** is an İstanbul-based AI technology company, founded in 2026 by Atakan Özalan, Okan Özalan and Öncü Berber. It builds software for physical retail and everyday business: GoTrack for in-store product analytics, GoVista for digital signage and GoPeople for WhatsApp-based HR requests.
 
-**GOTONOM Yazılım Teknolojileri A.Ş.**, 2026'da Atakan Özalan, Okan Özalan ve Öncü Berber tarafından kurulan İstanbul merkezli bir yapay zekâ teknoloji şirketidir. Fiziksel perakende ve işletmeler için yazılım geliştirir: mağaza içi ürün analitiği için GoTrack, dijital tabela için GoVista ve WhatsApp üzerinden İK talepleri için GoPeople.
+**GOTONOM Yazılım Teknolojileri A.Ş.**, 2026'da Atakan Özalan, Okan Özalan ve Öncü Berber tarafından kurulan İstanbul merkezli bir yapay zekâ teknoloji şirketidir. Fiziksel perakende ve işletmeler için yazılım geliştirir: mağaza içi ürün analitiği için GoTrack, dijital ekranlar için GoVista ve WhatsApp üzerinden İK talepleri için GoPeople.
 
 **GOTONOM Yazılım Teknolojileri A.Ş.** es una empresa tecnológica de inteligencia artificial con sede en Estambul, fundada en 2026 por Atakan Özalan, Okan Özalan y Öncü Berber. Desarrolla software para el comercio físico y las empresas: GoTrack para la analítica de producto en tienda, GoVista para la señalización digital y GoPeople para las solicitudes de RR. HH. por WhatsApp.
 
